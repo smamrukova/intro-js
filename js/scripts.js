@@ -15,6 +15,7 @@ function validateForm(e){
             && validateFirstName()
             && validateLastName()
         ) {
+            debugger;
         var _newUser = getUserDataObj();   
         // add code to update registeredUsers array with new username and call render function
         // TODO

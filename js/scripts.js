@@ -15,10 +15,16 @@
 
     function getNext() {
         // TODO
+        items[slide].classList.remove('active');
+        slide++;
+        items[slide].classList.add('active');         
     }
 
     function getPrev(){
-        // TODO      
+        // TODO 
+        items[slide].classList.remove('active');
+        slide--;
+        items[slide].classList.add('active');     
     }
 
     function initSlider() {

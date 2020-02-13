@@ -14,39 +14,39 @@
 
 /* Clock styles */
 .circle {
-    fill: none;
-    stroke: #000;
+    fill: rgb(94, 247, 127);
+    stroke: rgb(18, 92, 43);
     stroke-width: 9;
     stroke-miterlimit: 10;
 }
 
 .mid-circle {
-    fill: #000;
+    fill: rgb(23, 151, 51);
 }
 .hour-marks {
     fill: none;
-    stroke: #000;
+    stroke: rgb(223, 38, 38);
     stroke-width: 9;
     stroke-miterlimit: 10;
 }
 
 .hour-arm {
     fill: none;
-    stroke: #000;
+    stroke: rgb(25, 104, 44);
     stroke-width: 17;
     stroke-miterlimit: 10;
 }
 
 .minute-arm {
     fill: none;
-    stroke: #000;
+    stroke: rgb(25, 104, 44);
     stroke-width: 11;
     stroke-miterlimit: 10;
 }
 
 .second-arm {
     fill: none;
-    stroke: #000;
+    stroke: rgb(25, 104, 44);
     stroke-width: 4;
     stroke-miterlimit: 10;
 }

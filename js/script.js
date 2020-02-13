@@ -1,3 +1,3 @@
-var HOURHAND = document.getElementsById('hour');
-var MINUTEHAND = document.querySelector('.minute');
-var SECONDHAND = document.getElementsByName('second');
+var HOURHAND = document.querySelector("#hour");
+var MINUTEHAND = document.querySelector("#minute");
+var SECONDHAND = document.querySelector("#second");
